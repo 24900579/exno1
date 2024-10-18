@@ -21,20 +21,11 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-"C:\Users\admin\Pictures\Screenshots\Screenshot (2).png""C:\Users\admin\Pictures\Screenshots\Screenshot (3).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (4).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (5).png""C:\Users\admin\Pictures\Screenshots\Screenshot (6).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (7).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (8).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (8).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (10).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (11).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (12).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (13).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (14).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (15).png""C:\Users\admin\Pictures\Screenshots\Screenshot (16).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (17).png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot (19).png""C:\Users\admin\Pictures\Screenshots\Screenshot (18).png"
+![Screenshot (19)](https://github.com/user-attachments/assets/4c0747a3-924d-4c70-bc19-17705a4b89cd)
+![Screenshot (18)](https://github.com/user-attachments/assets/84c29f92-718f-4516-a59a-91bcf74bc205)
+![Screenshot (17)](https://github.com/user-attachments/assets/11e398a9-71f0-4df6-ba55-818a24a0b39a)
+![Screenshot (16)](https://github.com/user-attachments/assets/fbb2ab25-5e68-4e9c-ae10-a08946f57faf)
+
 
 # Result
           <<include your Result here>>
